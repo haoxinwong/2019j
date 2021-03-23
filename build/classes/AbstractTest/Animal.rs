@@ -1,0 +1,2 @@
+AbstractTest.Dog
+AbstractTest.Animal

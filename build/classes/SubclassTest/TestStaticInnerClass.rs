@@ -1,0 +1,3 @@
+SubclassTest.TestStaticInnerClass
+SubclassTest.Outer2
+SubclassTest.Outer2$Inner2

@@ -1,0 +1,4 @@
+ThreadTest01.StaticProxyTest.You
+ThreadTest01.StaticProxyTest.StaticProxy
+ThreadTest01.StaticProxyTest.WeddingCompany
+ThreadTest01.StaticProxyTest.Marry

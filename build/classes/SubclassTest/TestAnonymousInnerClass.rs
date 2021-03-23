@@ -1,0 +1,2 @@
+SubclassTest.TestAnonymousInnerClass
+SubclassTest.AA

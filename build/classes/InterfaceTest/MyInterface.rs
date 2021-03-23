@@ -1,0 +1,2 @@
+InterfaceTest.MyClass
+InterfaceTest.MyInterface
